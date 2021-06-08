@@ -1,4 +1,5 @@
 # LoadSpinner
+![loadspinner](https://github.com/EmilcyFelipe/LoadSpinner/blob/master/loadspinner.png)
 
 ## Objetivo
   Desenvolver uma tela para aguardar o carregamento da página
